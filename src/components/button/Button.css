@@ -1,0 +1,26 @@
+.ui-change-btn {
+  width: fit-content;
+  padding: 0.3rem 0.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.8rem;
+  background-color: var(--color-white);
+  border: 2px solid;
+  border-color: #ED6620;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+.ui-change-btn span {
+  /* background-color: var(--color-danger); */
+  display: inline-block;
+  padding: 0.2rem;
+  margin: 0 0.2rem;
+  border-radius: 0.5rem;
+  /* color: var(--color-white); */
+}
+
+.button-content {
+  display: flex;
+  align-items: center;
+}
