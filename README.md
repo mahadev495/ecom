@@ -1,5 +1,7 @@
 # Shopping 🛒
-This is a mini e-commerce project.
+This project is created as a part of the interview task. 
+This is e-commerce webapp. 
+
 
 ## To start application
 
