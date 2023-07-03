@@ -4,7 +4,7 @@ import "./Header.css";
 const Header = () => {
   return (
     <header>
-     <img src="./src/assets/logo.svg" alt="logo" />
+     <img src="./public/assets/logo.svg" alt="logo" />
     </header>
   );
 };
