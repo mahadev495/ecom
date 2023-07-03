@@ -24,3 +24,5 @@ Please find below links:
 3. Screen recording: https://drive.google.com/file/d/1afao0xm6YPKp_qByDIVndrf_z6dnredj/view?usp=sharing
 4. You can use any username and password mentioned in the following link to log in to the app.
 https://fakestoreapi.com/users
+
+Note: images(logo and cart) are not showing on the live site. hence app UI is recorded on the local system.
